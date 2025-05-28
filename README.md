@@ -34,4 +34,8 @@ Example: ./GTScan.py -G 201500000000,201500000002 -g 965123456780 -c 1 -C 2 -p 2
 
 
 
-All contributions are mostly welcomed
+**[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
+
+Or scan the QR code below:
+
+![Donate](https://github.com/user-attachments/assets/560314d1-58f9-4d0d-a96e-78d28bb7dc44)
