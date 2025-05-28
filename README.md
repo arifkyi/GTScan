@@ -32,7 +32,9 @@ And of course an SS7/Sigtran access :)
 
 Example: ./GTScan.py -G 201500000000,201500000002 -g 965123456780 -c 1 -C 2 -p 2905 -P 2906 -l 192.168.56.1 -r 192.168.56.102
 
+## ☕ Support Me, Support Rifky The Cyber YouTube Channel
 
+If you find this tool helpful and would like to support its development, you can buy me a coffee!
 
 **[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
 
